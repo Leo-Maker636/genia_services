@@ -1,0 +1,2 @@
+['remote "genia_services_storage"']
+    url = https://dagshub.com/Leo-Maker636/genia_services.dvc
