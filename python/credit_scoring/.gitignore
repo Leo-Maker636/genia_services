@@ -1,0 +1,5 @@
+/reports
+/mlruns
+/models
+__pycache__/
+*.pyc
